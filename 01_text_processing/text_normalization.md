@@ -176,5 +176,5 @@ def normalize_text(text):
 
 * text_representation
 
-**Author:** Monower Hossen
-**Domain:** NLP | LLM | Generative AI
+**Author:** Monower Hossen <br>
+**Domain:** ML/AI | NLP | LLM | Generative AI
