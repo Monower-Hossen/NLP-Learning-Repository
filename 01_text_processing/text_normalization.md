@@ -164,13 +164,7 @@ def normalize_text(text):
 * Legal or medical text
 
 
-## 9. Text Normalization in Modern LLMs
-
-* Subword tokenization reduces need for heavy normalization
-* Case and punctuation still matter
-* Minimal normalization preferred for transformers
-
-## 10. Summary
+## 9. Summary
 
 * Text normalization standardizes text
 * Includes lowercasing, stopword removal, stemming, lemmatization
@@ -180,10 +174,7 @@ def normalize_text(text):
 
 ## Next Topics
 
-* Tokenization strategies
-* Subword tokenization (BPE, WordPiece)
-* Text preprocessing for LLMs
-
+* text_representation
 
 **Author:** Monower Hossen
 **Domain:** NLP | LLM | Generative AI
