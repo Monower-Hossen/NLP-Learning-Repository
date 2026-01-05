@@ -20,20 +20,20 @@ NLP-Learning-Repository/
 │   ├── 03_stemming_lemmatization.ipynb
 │   ├── 04_stopwords_handling.ipynb
 │   ├── 05_regex_text_cleaning.ipynb
-│   └── 06_text_normalization.md
+│   └── text_normalization.md
 │
 ├── 02_text_representation/
 │   ├── 01_bow_tfidf.ipynb
 │   ├── 02_word2vec_cbow_skipgram.ipynb
 │   ├── 03_glove_embeddings.ipynb
 │   ├── 04_fasttext_embeddings.ipynb
-│   └── 05_embedding_comparison.md
+│   └── embedding_comparison.md
 │
 ├── 03_classical_nlp_models/
 │   ├── 01_naive_bayes_text.ipynb
 │   ├── 02_logistic_regression_nlp.ipynb
 │   ├── 03_svm_text_classification.ipynb
-│   └── 04_evaluation_metrics.md
+│   └── evaluation_metrics.md
 │
 ├── 04_sequence_models/
 │   ├── 01_rnn_from_scratch.ipynb
@@ -44,14 +44,14 @@ NLP-Learning-Repository/
 │   ├── 01_attention_mechanism.ipynb
 │   ├── 02_transformer_from_scratch.ipynb
 │   ├── 03_bert_introduction.ipynb
-│   ├── 04_gpt_overview.md
-│   └── 05_ine_tuning_transformers.ipynb
+│   ├── gpt_overview.md
+│   └── 04_ine_tuning_transformers.ipynb
 │
 ├── 06_llms_and_genai/
 │   ├── 01_prompt_engineering.md
-│   ├── 02_llm_architecture.md
+│   ├── llm_architecture.md
 │   ├── 03_rag_pipeline.ipynb
-│   └── 04_vector_databases.md
+│   └── vector_databases.md
 │
 ├── 07_projects/
 │   ├── sentiment_analysis/
